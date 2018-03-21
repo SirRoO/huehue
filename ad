@@ -1,0 +1,71 @@
+* [33md3d7ac7[m[33m ([m[1;36mHEAD -> [m[1;32mderp[m[33m)[m derp commit
+[31m|[m [1mdiff --git a/test.txt b/test.txt[m
+[31m|[m [1mindex 8aeb0c1..06b1f44 100644[m
+[31m|[m [1m--- a/test.txt[m
+[31m|[m [1m+++ b/test.txt[m
+[31m|[m [36m@@ -1,8 +1 @@[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-[m
+[31m|[m [31m-other herpy derp[m
+[31m|[m [32m+[m[32mIt'sa me![m
+[31m|[m * [33m4c03942[m[33m ([m[1;32mmaster[m[33m)[m master branch commit
+[31m|[m [32m|[m [1mdiff --git a/test.txt b/test.txt[m
+[31m|[m [32m|[m [1mindex ddf0417..788626b 100644[m
+[31m|[m [32m|[m [1m--- a/test.txt[m
+[31m|[m [32m|[m [1m+++ b/test.txt[m
+[31m|[m [32m|[m [36m@@ -1 +1 @@[m
+[31m|[m [32m|[m [31m-herp derp[m
+[31m|[m [32m|[m [32m+[m[32mherpy derpy[m
+[31m|[m *   [33m5538cd5[m Merge branch 'bugFix'
+[31m|[m [31m|[m[34m\[m  
+[31m|[m[31m/[m [34m/[m  
+[31m|[m * [33m896905a[m other commit
+[31m|[m [34m|[m [1mdiff --git a/test.txt b/test.txt[m
+[31m|[m [34m|[m [1mindex 77d7734..e69de29 100644[m
+[31m|[m [34m|[m [1m--- a/test.txt[m
+[31m|[m [34m|[m [1m+++ b/test.txt[m
+[31m|[m [34m|[m [36m@@ -1 +0,0 @@[m
+[31m|[m [34m|[m [31m-This is the first paragraph![m
+* [34m|[m [33m2197ed9[m other commit from master
+[34m|[m [34m|[m [1mdiff --git a/test.txt b/test.txt[m
+[34m|[m [34m|[m [1mindex e69de29..8aeb0c1 100644[m
+[34m|[m [34m|[m [1m--- a/test.txt[m
+[34m|[m [34m|[m [1m+++ b/test.txt[m
+[34m|[m [34m|[m [36m@@ -0,0 +1,8 @@[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m
+[34m|[m [34m|[m [32m+[m[32mother herpy derp[m
+* [34m|[m [33m1b885d9[m Another commit
+[34m|[m[34m/[m  
+[34m|[m   [1mdiff --git a/test.txt b/test.txt[m
+[34m|[m   [1mindex 77d7734..e69de29 100644[m
+[34m|[m   [1m--- a/test.txt[m
+[34m|[m   [1m+++ b/test.txt[m
+[34m|[m   [36m@@ -1 +0,0 @@[m
+[34m|[m   [31m-This is the first paragraph![m
+* [33m469eed2[m Wrote first line
+[34m|[m [1mdiff --git a/test.txt b/test.txt[m
+[34m|[m [1mindex 16e5a70..77d7734 100644[m
+[34m|[m [1m--- a/test.txt[m
+[34m|[m [1m+++ b/test.txt[m
+[34m|[m [36m@@ -1 +1 @@[m
+[34m|[m [31m-derp[m
+[34m|[m [32m+[m[32mThis is the first paragraph![m
+* [33me148f96[m First commit
+  [1mdiff --git a/test.txt b/test.txt[m
+  [1mnew file mode 100644[m
+  [1mindex 0000000..16e5a70[m
+  [1m--- /dev/null[m
+  [1m+++ b/test.txt[m
+  [36m@@ -0,0 +1 @@[m
+  [32m+[m[32mderp[m
